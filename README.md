@@ -4,6 +4,13 @@
 
 ### Aucun fichier Zip ne sera accepté. Nous attendons que vous nous envoyez votre lien par email.
 
+### Pour mener à bien ce test vous devrez créer un fichier .env contenant :
+
+- USERNAME_APP=Admin
+- PASSWORD=Admin
+
+### Je vous demanderais de ne pas changer ces valeurs.
+
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 # Objectif
